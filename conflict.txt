@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I love C programming.
+=======
+I love Python programming.
+>>>>>>> branch-A
