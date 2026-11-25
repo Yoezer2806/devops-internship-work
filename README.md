@@ -2,3 +2,4 @@
 This project is for learning Git.
 ## Installation
 ## Usage
+## License
